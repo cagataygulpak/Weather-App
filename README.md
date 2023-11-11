@@ -1,16 +1,4 @@
-# weather_app
+Hava durumu verileri model oluşturularak yapılmıştır.Geçişler animasyonlu bir şekilde yapılmıştır.
 
-A new Flutter project.
+https://github.com/cagataygulpak/Weather-App/assets/72386553/405ff922-ddc5-49b0-bdda-d17f304ab10a
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
